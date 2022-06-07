@@ -1,5 +1,3 @@
-# dsmovie
-
 # O que é: 
   Consiste em um site com uma lista de filmes, onde o usuario pode avaliar os filmes a partir de uma nota de 1 a 5,
 apos isso sera somado todas as avaliações feitas pelos usuarios em determinado filme e retornar uma media, essa media sera 
@@ -11,7 +9,7 @@ a nota de avaliação deste filme
 # Habilidades adquiridas:
 * Como utilizar a framework Spring Boot e principios basicos do React Native.
 * Trabalhar com Frontend e Backend juntos.
-* Requisitações http.
+* Requisitações HTTP.
 * Melhoria nas linguagens Typescript e Java.
  
 # Imagens: 
