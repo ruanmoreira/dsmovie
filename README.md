@@ -15,7 +15,7 @@ a nota de avaliação deste filme
 
 # :exclamation: OBS 
   Eu utilizei o Heroku(Banco de dados em nuvem) na versão gratuita, por esse motivo ao clicar no link não aparecera nenhum filme, mas ao esperar ~30 segundos ou menos vai estar funcionando normalmente.
-# Imagens: 
+# 📷 Imagens: 
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/69250714/172501695-df26f399-0b07-4801-8570-e1f9f5c44579.gif)
 
 # 🚀 Outras tecnologias utilizadas: 
