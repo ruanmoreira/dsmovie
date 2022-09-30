@@ -1,23 +1,27 @@
 # 💬 O que é: 
-  Consiste em um site com uma listagem de vendas que ao o usuario entrar listara todas as vendas realizadas durante 1 ano, mas ele pode alterar esse periodo em que ele deseja tambem tem um botão que envia um sms dessa venda.
+  Consiste em um site com uma lista de filmes, onde o usuario pode avaliar os filmes a partir de uma nota de 1 a 5,
+apos isso sera somado todas as avaliações feitas pelos usuarios em determinado filme e retornar uma media, essa media sera 
+a nota de avaliação deste filme
 
 # 📃 Como funciona: 
-  O usuario escolhe o periodo de tempo em que deseja filtrar e toda vez que esse periodo é alterado a listagem muda.
+  O usuario escolhe o filme que deseja avaliar, insere o email e a nota que deseja e clique em avaliar.
   
 # 🏆 Habilidades adquiridas:
-* Novos exemplos de como utilizar a framework Spring Boot e o React Native.
-* Criar API's.
-* Melhoria nas linguagens TypeScript e Java.
-* Como utilizar ORM (Hibernate)
-* Codigo limpo.
+* Como utilizar a framework Spring Boot e principios basicos do React Native.
+* Criar API's REST
+* Melhoria nas linguagens Typescript e Java.
+* Codigo Limpo
+* Utilizar ORM em Java.
 
-# 📷 Imagens: 
-![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/69250714/193295139-0bcd85f7-be2c-4b30-ba6d-99a0f2256f0f.gif)
+# :exclamation: OBS 
+  Eu utilizei o Heroku(Banco de dados em nuvem) na versão gratuita, por esse motivo ao clicar no link não aparecera nenhum filme, mas ao esperar ~30 segundos ou menos vai estar funcionando normalmente.
+# Imagens: 
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/69250714/172501695-df26f399-0b07-4801-8570-e1f9f5c44579.gif)
 
 # 🚀 Outras tecnologias utilizadas: 
-* React.js
+* Heroku
 * JPA e Hibernate
-* Vite
-* Spring Boot
+* Netlify
 * PostgreSQL
-
+* React.js
+* Spring Boot
